@@ -1,4 +1,4 @@
-# BileMo
+# API REST for smartphone sellers
 
 Web service exposing the API of BileMo which is a company offering a selection of high-end mobile phones.
 
